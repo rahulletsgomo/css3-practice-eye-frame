@@ -1,0 +1,19 @@
+#content {
+    border: 1px solid #000;
+    width: 512px;
+    height: 512px;
+    background: url("../images/Man-OriginalFrontalFace.bmp") no-repeat;
+}
+
+#frontBar {
+    position: relative;
+    /*-webkit-transform: rotateY(30deg)*/
+}
+#sideBar{
+    position: absolute;
+}
+
+#specs{
+    top: 180px;
+    left: 105px;
+}
