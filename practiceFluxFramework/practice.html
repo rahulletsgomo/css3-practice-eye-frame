@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Practice 3D Transitions</title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $("#changeImage").click(function(){
+                $("#sideBar").css({
+                    'rotateX':'90deg'
+                })
+            })
+        })
+    </script>
+</head>
+<body>
+<img src="img/4_s.png" id="sideBar" alt="Side Bar" />
+<button id="changeImage">Change Image</button>
+</body>
+</html>

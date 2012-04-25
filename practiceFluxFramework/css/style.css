@@ -1,0 +1,17 @@
+#frontBar{
+    position: relative;
+}
+#sideBar{
+    position: absolute;
+    margin-left: 100px;
+}
+
+/*#frontBar{
+    position: relative;
+}
+#sideBar{
+    position: absolute;
+    margin-left: 100px;
+}
+#slider{width:507px;height:200px;float: left;padding:0px;margin: 0px;border: 1px solid red;}
+#mainbar{width:307px;height:150px;float:left;padding: 0px;margin: 0px;border:1px solid yellow;}*/
